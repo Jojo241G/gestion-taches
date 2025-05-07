@@ -1,5 +1,9 @@
-from task_manager import add_task, modify_task, delete_task, list_tasks, tasks
-from json_handler import save_to_file, load_from_file
+
+print("bonjour a tous")
+
+"""from task_manager import add_task, modify_task, delete_task, list_tasks, tasks
+from json_handler import  save_to_file, load_from_file
+
 
 def menu():
     filename = "tasks.json"
@@ -34,4 +38,4 @@ def menu():
             print("Tâches sauvegardées.")
             break
         else:
-            print("Choix invalide.")
+            print("Choix invalide.")"""
