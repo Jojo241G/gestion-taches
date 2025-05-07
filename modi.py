@@ -1,4 +1,4 @@
-from ajout import produits
+from ajoute import produits
 
 def modifier_produit():
     if not produits:
